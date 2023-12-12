@@ -1,3 +1,7 @@
-git remote add origin https://github.com/neehansolo/liv-pure-affiliates2.git
+echo "# liv-pure-affiliates" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
   git branch -M main
+  git remote add origin https://github.com/neehansolo/liv-pure-affiliates.git
   git push -u origin main
